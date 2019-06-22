@@ -1,5 +1,5 @@
 this is my new file
-coucou there! my change
+coucou there!, merge line, another change
 a new change:)
 update it!
 another change
